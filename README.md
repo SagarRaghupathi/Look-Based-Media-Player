@@ -5,4 +5,6 @@ Steps:
 
 ->pip install -r requirements.txt or pip3 install -r requirements.txt
 
+->Change the video folder source path in Gui_Support/Gui_support.py (line 47)
+
 ->python main.py
